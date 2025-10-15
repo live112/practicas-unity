@@ -20,6 +20,15 @@ Este repositorio contiene las evidencias de los desafíos realizados en clase po
 
 ---
 
+## Desafío 2 | Movimiento <a id="desafío-2--movimiento"></a>
+
+### Evidencia
+[![PDF de evidencia](https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg)](https://drive.google.com/file/d/1i0wh3y8x7zkjvTqOvUGLde4aPUF8xfEb/view?usp=sharing)
+
+> Este desafío se entregó en clase y se adjunta evidencia en PDF.
+
+---
+
 ## Desafío 3 | Menú <a id="desafío-3--menú"></a>
 
 ### Evidencia
