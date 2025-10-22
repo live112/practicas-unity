@@ -12,6 +12,7 @@ clase por **Emilio Antonio Palacios Arvizu**.
 3.  [Desafío 3: Creación de un Menú](#desafío-3--menú)
 4.  [Tutorial 3](#tutorial-3)
 5.  [Tutorial 4](#tutorial-4)
+6.  [Tutorial 5](#tutorial-5)
 
 ------------------------------------------------------------------------
 
@@ -66,3 +67,12 @@ evidencia](https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg
 
 > Este tutorial complementa los ejercicios previos, reforzando
 > habilidades vistas en clase.
+
+------------------------------------------------------------------------
+
+## Tutorial 5 | Enemigos y victoría <a id="tutorial-5"></a>
+
+[![Enlace al tutorial
+4](https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg)](https://drive.google.com/file/d/1C7JwXkzwrg8Y3lricupfNoXITttgFBTX/view?usp=sharing)
+
+> Este tutorial complementa los ejercicios previos.
