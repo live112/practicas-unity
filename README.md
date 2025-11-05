@@ -29,7 +29,7 @@ Este repositorio contiene las evidencias de los desafíos realizados en clase po
 
 ---
 
-## 🧩 Desafío 1 — Animaciones
+## 🧩 Desafío 1 — Animaciones <a id="desafío-1--animaciones"></a>
 📄 **Documento:**  
 https://docs.google.com/document/d/1ruGMBsRxKzVBlg4SO9sYz1ZPJmqcVcBB/edit?usp=sharing&ouid=106916358375799372293&rtpof=true&sd=true
 
@@ -37,7 +37,7 @@ https://docs.google.com/document/d/1ruGMBsRxKzVBlg4SO9sYz1ZPJmqcVcBB/edit?usp=sh
 
 ---
 
-## 🧩 Desafío 2 — Personajes y movimiento
+## 🧩 Desafío 2 — Personajes y movimiento <a id="desafío-2--personajes-y-movimiento"></a>
 📄 **Documento:**  
 https://docs.google.com/document/d/18qgYQyvDkc3IK8BjZjVG7u6uJdFNI6IN/edit?usp=sharing&ouid=106916358375799372293&rtpof=true&sd=true
 
@@ -45,7 +45,7 @@ https://docs.google.com/document/d/18qgYQyvDkc3IK8BjZjVG7u6uJdFNI6IN/edit?usp=sh
 
 ---
 
-## 🧩 Desafío 3 — Menú de inicio
+## 🧩 Desafío 3 — Menú de inicio <a id="desafío-3--menú-de-inicio"></a>
 📄 **Documento:**  
 https://docs.google.com/document/d/1I6JO-mEZz9mHcNOfq9RPyZwoS0bDdx13/edit?usp=sharing&ouid=106916358375799372293&rtpof=true&sd=true
 
@@ -53,7 +53,7 @@ https://docs.google.com/document/d/1I6JO-mEZz9mHcNOfq9RPyZwoS0bDdx13/edit?usp=sh
 
 ---
 
-## 🎮 Tutorial 3 — Recoger frutas (Items)
+## 🎮 Tutorial 3 — Recoger frutas (Items) <a id="tutorial-3--recoger-frutas-items"></a>
 📄 **Documento:**  
 https://docs.google.com/document/d/1sTL1_IErvWTDGgMz1geaJZMJBR_tHRcX/edit?usp=sharing&ouid=106916358375799372293&rtpof=true&sd=true
 
@@ -61,7 +61,7 @@ https://docs.google.com/document/d/1sTL1_IErvWTDGgMz1geaJZMJBR_tHRcX/edit?usp=sh
 
 ---
 
-## 🎮 Tutorial 4 — Animaciones 2D
+## 🎮 Tutorial 4 — Animaciones 2D <a id="tutorial-4--animaciones-2d"></a>
 📄 **Documento:**  
 https://docs.google.com/document/d/1S6VcsbRBfj8wWOUkSGzbjHk4jrhFccb7/edit?usp=sharing&ouid=106916358375799372293&rtpof=true&sd=true
 
@@ -69,7 +69,7 @@ https://docs.google.com/document/d/1S6VcsbRBfj8wWOUkSGzbjHk4jrhFccb7/edit?usp=sh
 
 ---
 
-## 🎮 Tutorial 5 — Enemigos
+## 🎮 Tutorial 5 — Enemigos <a id="tutorial-5--enemigos"></a>
 📄 **Documento:**  
 https://docs.google.com/document/d/1mWQ4zszPWAY7wUgO835DwpmQE1Jyzfyi/edit?usp=sharing&ouid=106916358375799372293&rtpof=true&sd=true
 
@@ -77,7 +77,7 @@ https://docs.google.com/document/d/1mWQ4zszPWAY7wUgO835DwpmQE1Jyzfyi/edit?usp=sh
 
 ---
 
-## 🎮 Tutorial 6 — Nuevos niveles
+## 🎮 Tutorial 6 — Nuevos niveles <a id="tutorial-6--nuevos-niveles"></a>
 📄 **Documento:**  
 https://docs.google.com/document/d/1DVd5YOYSi-c6wEfUANCSmQShgCsXgS21/edit?usp=sharing&ouid=106916358375799372293&rtpof=true&sd=true
 
@@ -85,7 +85,7 @@ https://docs.google.com/document/d/1DVd5YOYSi-c6wEfUANCSmQShgCsXgS21/edit?usp=sh
 
 ---
 
-## 🎮 Tutorial 7 — CheckPoint
+## 🎮 Tutorial 7 — CheckPoint <a id="tutorial-7--checkpoint"></a>
 📄 **Documento:**  
 https://docs.google.com/document/d/1O82oaI8Z_9Q9PO5_2GChdwhACuX2hFS2/edit?usp=sharing&ouid=106916358375799372293&rtpof=true&sd=true
 
@@ -93,7 +93,7 @@ https://docs.google.com/document/d/1O82oaI8Z_9Q9PO5_2GChdwhACuX2hFS2/edit?usp=sh
 
 ---
 
-## 🎮 Tutorial 8 — Transición
+## 🎮 Tutorial 8 — Transición <a id="tutorial-8--transición"></a>
 📄 **Documento:**  
 https://docs.google.com/document/d/1oGBlgZRE4LkaUK5UyAMxHVN9Q22coVgQ/edit?usp=sharing&ouid=106916358375799372293&rtpof=true&sd=true
 
@@ -101,7 +101,7 @@ https://docs.google.com/document/d/1oGBlgZRE4LkaUK5UyAMxHVN9Q22coVgQ/edit?usp=sh
 
 ---
 
-## 🎮 Tutorial 9 — Doble salto y caída
+## 🎮 Tutorial 9 — Doble salto y caída <a id="tutorial-9--doble-salto-y-caída"></a>
 📄 **Documento:**  
 https://docs.google.com/document/d/1_7thdHMHAVZI0sLx7gyBrRLqMypjzbID/edit?usp=sharing&ouid=106916358375799372293&rtpof=true&sd=true
 
@@ -109,7 +109,7 @@ https://docs.google.com/document/d/1_7thdHMHAVZI0sLx7gyBrRLqMypjzbID/edit?usp=sh
 
 ---
 
-## 🎮 Tutorial 10 — Plataformas doble sentido
+## 🎮 Tutorial 10 — Plataformas doble sentido <a id="tutorial-10--plataformas-doble-sentido"></a>
 📄 **Documento:**  
 https://docs.google.com/document/d/11M8gBzLmTNRjVPs6qW1ueaThCbguOEVg/edit?usp=sharing&ouid=106916358375799372293&rtpof=true&sd=true
 
@@ -117,7 +117,7 @@ https://docs.google.com/document/d/11M8gBzLmTNRjVPs6qW1ueaThCbguOEVg/edit?usp=sh
 
 ---
 
-## 🎮 Tutorial 11 — Skins — Nuevos personajes
+## 🎮 Tutorial 11 — Skins — Nuevos personajes <a id="tutorial-11--skins--nuevos-personajes"></a>
 📄 **Documento:**  
 https://docs.google.com/document/d/1J9qir34UmF0wT1rVjrOHrwgyevwkTguw/edit?usp=sharing&ouid=106916358375799372293&rtpof=true&sd=true
 
@@ -125,7 +125,7 @@ https://docs.google.com/document/d/1J9qir34UmF0wT1rVjrOHrwgyevwkTguw/edit?usp=sh
 
 ---
 
-## 🎮 Tutorial 12 — Menú Principal (parte 1)
+## 🎮 Tutorial 12 — Menú Principal (parte 1) <a id="tutorial-12--menú-principal-parte-1"></a>
 📄 **Documento:**  
 https://docs.google.com/document/d/1VTPP1rFcQkTKYE5doDXE0Awe89Lhil-s/edit?usp=sharing&ouid=106916358375799372293&rtpof=true&sd=true
 
@@ -133,7 +133,7 @@ https://docs.google.com/document/d/1VTPP1rFcQkTKYE5doDXE0Awe89Lhil-s/edit?usp=sh
 
 ---
 
-## 🎮 Tutorial 12, parte 2 — Menú Principal
+## 🎮 Tutorial 12, parte 2 — Menú Principal <a id="tutorial-122--menú-principal-parte-2"></a>
 📄 **Documento:**  
 https://docs.google.com/document/d/1UqcMfZjkMB-0-0_o1G61MAs0Cg9MMxV4/edit?usp=sharing&ouid=106916358375799372293&rtpof=true&sd=true
 
@@ -141,7 +141,7 @@ https://docs.google.com/document/d/1UqcMfZjkMB-0-0_o1G61MAs0Cg9MMxV4/edit?usp=sh
 
 ---
 
-## 🎮 Tutorial 14 — Botones para móvil
+## 🎮 Tutorial 14 — Botones para móvil <a id="tutorial-14--botones-para-móvil"></a>
 📄 **Documento:**  
 https://docs.google.com/document/d/11L-ZVVEMpQBxcNEatrX5mlT1oAXeH8P9/edit?usp=sharing&ouid=106916358375799372293&rtpof=true&sd=true
 
@@ -149,7 +149,7 @@ https://docs.google.com/document/d/11L-ZVVEMpQBxcNEatrX5mlT1oAXeH8P9/edit?usp=sh
 
 ---
 
-## 🎮 Tutorial 15 — Score
+## 🎮 Tutorial 15 — Score <a id="tutorial-15--score"></a>
 📄 **Documento:**  
 https://docs.google.com/document/d/1GrxJwZHDVaoXHUNt3xyKIAsMSpmTuA74/edit?usp=sharing&ouid=106916358375799372293&rtpof=true&sd=true
 
@@ -157,7 +157,7 @@ https://docs.google.com/document/d/1GrxJwZHDVaoXHUNt3xyKIAsMSpmTuA74/edit?usp=sh
 
 ---
 
-## 🎮 Tutorial 29 — Vida
+## 🎮 Tutorial 29 — Vida <a id="tutorial-29--vida"></a>
 📄 **Documento:**  
 https://docs.google.com/document/d/1-N-AJWkAatP5RNQJDMkfdBAv_BzsGMIy/edit?usp=sharing&ouid=106916358375799372293&rtpof=true&sd=true
 
